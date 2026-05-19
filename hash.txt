@@ -1,1 +1,11 @@
-xfreerdp /v:10.129.205.123 /u:Administrator /p:'HTB_@cad3my_lab_W1n10_r00t!@0' /dynamic-resolution +clipboard /tls-seclevel:0
+<QueryList>
+  <Query Id="0" Path="Security">
+    <Select Path="Security">
+      *[System[(EventID=4907)]]
+      and
+      *[EventData[
+        Data[@Name='ObjectName']='C:\Windows\Microsoft.NET\Framework64\v4.0.30319\WPF\wpfgfx_v0400.dll'
+      ]]
+    </Select>
+  </Query>
+</QueryList>
