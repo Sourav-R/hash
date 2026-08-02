@@ -12,3 +12,5 @@
 
 
 xfreerdp /v:10.129.205.123 /u:Administrator /p:'HTB_@cad3my_lab_W1n10_r00t!@0' /dynamic-resolution +clipboard /tls-seclevel:0
+
+https://toffeeshare.com/c/yCezLEWySf
