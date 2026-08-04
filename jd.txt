@@ -1,0 +1,54 @@
+
+
+Service Desk Engineer (Managed Services)
+
+FUJIFILM MicroChannel Services Pty Ltd 
+2.5
+View all jobs
+Melbourne VIC (Hybrid)
+Networks & Systems Administration (Information & Communication Technology)
+Full time
+Salary undisclosed
+
+Posted 10d ago
+High application volume
+
+The Opportunity
+
+As a Level 2 Service Desk Engineer, you will bring valuable experience from a Managed Service Provider (MSP) environment, where on-site support will occasionally be a part of your responsibilities. With your vibrant personality and exceptional communication skills, you will take on a pivotal frontline role in delivering support for Windows Server, Azure, virtualization, DNS, Firewalls, Networking, Security, supporting devices and backup systems, along with troubleshooting Apple devices. Your primary focus will be to ensure IT services are secure, reliable, and scalable. You will manage the resolution of support tickets, drive continuous improvement initiatives, and provide outstanding customer support, all of which are essential to helping our business thrive and operate with greater efficiency.
+
+What Will Be Involved
+Manage the incoming flow of work by prioritising and managing your ticket queue.
+Provide frontline support with a focus on First Contact Resolution.
+Own tickets through to resolution and escalate to other teams or vendors when required.
+Liaise with customers and internal teams to ensure satisfactory resolution of tickets.
+What You Will Need
+Minimum 3 years of experience in a similar role, ideally in an MSP environment
+Windows 10/11 desktop support experience
+End user device troubleshooting – mobile devices, laptop/desktop hardware, peripherals, etc.
+Experience working in a security-conscious environment, using security tools such as SentinelOne, Proofpoint, CrowdStrike, etc.
+Microsoft Exchange / Exchange Online exposure
+File Share, One Drive, SharePoint, Entra/AD user administration, etc.
+Experience supporting Office 365 suite
+Remote working tools such as RDS, AVD, Citrix, VPNs, etc.
+Printers – Configuration and troubleshooting
+Understanding of networking technology such as routers, switches, firewalls, DHCP, DNS, internet connectivity, etc.
+Excellent communication and interpersonal skills
+Ability to adhere to SLA’s, prioritise work and follow documented processes
+Relevant industry certifications - Microsoft, ITIL, Cisco, Fortinet, CompTIA, etc.
+Desirable:
+Experience with Windows Server, Azure, virtualisation and backup environments
+Experience supporting UC tools such as Teams Calling, 3CX, 8x8, etc.
+Experience troubleshooting Apple devices
+A Little Bit About Us
+
+FUJIFILM MicroChannel is a leading business technology company founded in 1995, offering a diverse solutions portfolio across Managed Services, ERP, CRM, Marketing, Retail, eCommerce and Hosting. We partner with world-leading software vendors, primarily Microsoft, SAP, and Sage, to implement and support these solutions. With more than 100 awards and offices across Australia, New Zealand, Singapore, Fiji and Thailand, FUJIFILM MicroChannel provides a rich environment for career growth.
+
+Sound Interesting?
+
+This is more than just a job – it’s an opportunity to make a significant impact and grow with a company that values your contributions. If you're passionate about technology and customer service and ready for an exciting new challenge, we want to hear from you!
+
+Employment is dependent on unrestricted working rights and a national police criminal history check that is acceptable to FUJIFILM MicroChannel. 
+Employer questions
+Your application will include the following questions:
+Which of the following statements best describes your right to work in Australia?
